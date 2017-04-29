@@ -1,0 +1,4 @@
+grpcio==1.2.1
+#grpcio_reflection==1.2.1
+gittish_core_protocol_common==1.0.0.dev1
+gittish_core_protocol_streaming==1.0.0.dev1
